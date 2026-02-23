@@ -8,14 +8,14 @@ EDA.ipynb: Donde se realiza el Análisis Exploratorio de Datos (EDA) para visual
 
 ## 🛠️ Tecnologías y Librerías Utilizadas
 Se detallaran las tecnologias usadas y sus propositos
-# Manipulación y Visualización de Datos
+### Manipulación y Visualización de Datos
 -pandas: Utilizado para la limpieza preliminar del dataset de las setas.
 
 -matplotlib: Utilizado en el archivo EDA.ipynb para la creación de gráficos fundamentales y el análisis visual de las características del dataset.
 
 -seaborn: Utilizado en el archivo EDA.ipynb complementando a matplotlib con gráficos estadísticos avanzados.
 
-# Machine Learning (scikit-learn)
+### Machine Learning (scikit-learn)
 -OneHotEncoder: Fundamental para la codificación de variables categóricas a numéricas, permitiendo que los algoritmos procesen los datos del dataset.
 
 -PCA (Principal Component Analysis): Aplicado para la reducción de dimensionalidad, simplificando el dataset para mejorar la eficiencia del modelo.
